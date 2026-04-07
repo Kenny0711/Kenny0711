@@ -2,8 +2,7 @@
 <h3 align="center">CS Master's Student @ NYCU | Multimedia Engineering</h3>
 <p align="center"><b>Deep Reinforcement Learning | Computer Vision | AI Enthusiast</b></p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenny0711&theme=dark" alt="kenny0711" /></a> 
+
 </p>
 
 ---
@@ -44,10 +43,6 @@
 
 ---
 <h3 align="left">📊 GitHub & LeetCode Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenny0711&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="kenny0711's GitHub stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenny0711&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Top Languages" height="195" />
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/kennyyanghao" target="_blank">
