@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 **Kenny0711/Kenny0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
